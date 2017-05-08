@@ -1,0 +1,6 @@
+{
+  "name": "hindi movies",
+  "description": "finds hindi movies in sf",
+  "repository": "https://github.com/pallavkothari/hindi-movies.git",
+  "keywords": ["movies", "hindi", "sf"]
+}
